@@ -1,2 +1,0 @@
-# myproject
-new line entered.
